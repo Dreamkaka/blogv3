@@ -1,8 +1,8 @@
 # 导航栏
 menu:                      # 导航栏上的链接
-  Home: /
-  Archives: /archives
-  About: /about
+  主頁: /
+  歸檔: /archives
+  關於: /about
 rss: /atom.xml
 
 home:
@@ -28,13 +28,13 @@ subtitle: 404 not found
 links:
   - name: Twitter
     icon: fa-brands fa-twitter      # 访问 https://fontawesome.com/search 获取图标代码
-    url: https://twitter.com
-  - name: Steam
-    icon: fa-brands fa-steam
-    url: https://store.steampowered.com
+    url: https://twitter/Dreamkaka
+  - name: bilibli
+    icon: fa-brands fa-bilibili
+    url: https://space.bilibili.com/516951032
   - name: GitHub
     icon: fa-brands fa-github
-    url: https://github.com
+    url: https://github.com/Dreamkaka
 
 # 侧边栏
 sidebar:
@@ -53,6 +53,10 @@ archive_type: 'monthly'
 recent_posts_limits: 5
 categories:
   max_depth:              # 分类组件中显示的最大目录深度 (留空为不限制)
+
+
+
+language: zh-CN 
 
 # 第三方评论系统
 comment:

@@ -3,7 +3,7 @@ subtitle: '404 NOT FOUND'
 description: ''
 keywords: blog, tech
 author: 幻夢曉寒kaka
-language: zh_CN
+language: zh-CN
 timezone: ''
 url: http://example.com
 permalink: ':year/:month/:day/:title/'
