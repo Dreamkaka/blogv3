@@ -101,7 +101,7 @@ navbar:
       url: archives/
     - name: 友链
       icon: fa-solid fa-link
-      url: links/
+      url: link/
     - name: 朋友圈
       icon: fa-solid fa-satellite-dish
       url: fcircle/
@@ -145,7 +145,7 @@ cover:
     - name: 友鏈
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f389.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
-      url: /links/
+      url: /link/
     - name: 關於
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
@@ -504,7 +504,7 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: /https://f003.backblazeb2.com/file/blog-v3/avatar.jpg # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+      avatar: https://f003.backblazeb2.com/file/blog-v3/avatar.jpg # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
       shape: rectangle # circle, rectangle
       url: /about/
       title:
@@ -583,8 +583,8 @@ sidebar:
           text: '文章数目：'
           unit: '篇'
         runtime:
-          enable: false
-          data: '2020/01/01'    # 填写建站日期
+          enable: true
+          data: '2023/08/01'    # 填写建站日期
           text: '已运行时间：'
           unit: '天'
         wordcount:
