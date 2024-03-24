@@ -1,9 +1,14 @@
 ---
 title: LTCGI实时光教程
-date: 2024-03-13
-description: "LTCGI的简单教程"
-tags: ["vrchat", "ltcgi", "unity"]
+description: LTCGI的简单教程
+tags:
+  - vrchat
+  - ltcgi
+  - unity
 category: vrchat
+layout: post
+abbrlink: dfe8db1a
+date: 2024-03-13 00:00:00
 ---
 ## 前言
 LTCGI 是一种优化的即插即用实时区域光解决方案，使用线性变换余弦算法，适用于独立的 Unity 和 VRChat。免费使用并注明出处。它可以利用Unity内置光照贴图或Bakery在静态对象上获得逼真的阴影。

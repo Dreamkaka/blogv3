@@ -1,11 +1,11 @@
 title: 幻夢曉寒_TOKA
 subtitle: '404 NOT FOUND'
-description: ''
-keywords: blog, tech
-author: 幻夢曉寒kaka
+description: '曉寒の互聯網自留地'
+keywords: blog,tech
+author: '幻夢曉寒kaka'
 language: zh-CN
 timezone: ''
-url: http://example.com
+url: http://blog.xiaohan-kaka.gay
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -60,18 +60,19 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: vivia
+theme: volantis
 deploy:
   type: ''
 
-search:
-  path: search.xml
-  field: post
-  content: true
-  template: themes/vivia/search.xml
 
 feed:
   type: atom
   path: atom.xml
   limit: 20  
+
+# abbrlink 配置
+abbrlink:
+  alg: crc32      # 算法--支持 crc16(默认) 和 crc32
+  rep: hex        # 进制--支持 dec(默认/十进制) and hex(十六进制)
+  drafts: false   # (true)处理草稿/(false)默认不处理草稿
 

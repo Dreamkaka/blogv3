@@ -1,10 +1,14 @@
 ---
 title: 论当下的教育，政治，经济
-date: 2024-01-09
-description: "一个简单的思考？"
-tags: ["思考","转载","辩证"]
+description: 一个简单的思考？
+tags:
+  - 思考
+  - 转载
+  - 辩证
 category: 思考
 draft: false
+abbrlink: 3803e33f
+date: 2024-01-09 00:00:00
 ---
 # 前言
 从一位朋友那转载来的，已获得授权
