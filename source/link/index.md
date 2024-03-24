@@ -11,4 +11,4 @@ comments: false
 
 <div id="friends-api"></div>
 <script src="https://unpkg.com/qexo-friends/friends-api.js"></script>
-<script>qexo_friend_api("friends-api","https://qexo.xiaohan-kaka.gay","人机验证秘钥，没有的不填");</script>
+<script>qexo_friend_api("friends-api","https://qexo.xiaohan-kaka.gay","6LfTKqMpAAAAAD5btlkrLz0TS-SsMqkygf88E3WZ");</script>
