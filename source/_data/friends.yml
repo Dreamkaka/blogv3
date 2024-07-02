@@ -1,0 +1,33 @@
+- group: # 分组标题
+  description: 朋友们 # 分组描述
+  items:
+    - title: 吮指原味姬 
+      avatar: https://img01.anheyu.com/useruploads/243/2023/08/15/64db8a22b3b83.ico # 头像
+      url: https://www.yejinblok.cn 
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 无论什么时候，都不要后悔 # 描述
+    - title: 煮雪话河山`Blog # 名称
+      avatar: https://img.cent1pedee.top/img/wechat.jpg # 头像
+      url: https://blog.cent1pedee.top 
+      screenshot: # 截图
+      keywords: 如月之恒，如日之升。 # 关键词
+      description: # 描述
+    - title: kilito
+      avatar: https://bu.dusays.com/2023/08/14/64d9d5100e495.jpg
+      url: https://blog.wudl.cn
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 今天也是元气满满的一天
+    - title: 冰火之砺
+      avatar: https://bu.dusays.com/2023/11/29/6567122d3f4a6.jpg
+      url: https://blog.marice.top
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 水穷暖春云起处 
+    - title: 理随
+      avatar: https://s3.qjqq.cn/3/64de148060f7b.webp!color
+      url: https://lisui.top
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 生而无畏，站至终章 
