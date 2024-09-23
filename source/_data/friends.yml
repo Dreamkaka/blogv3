@@ -37,3 +37,28 @@
       screenshot: # 截图
       keywords: # 关键词
       description: 四时之景不同，而乐亦无穷也。
+    - title: 故人随笔
+      avatar: https://ifwww.com/img/god.png
+      url: https://ifwww.com
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 寒江孤影,江湖故人
+    - title: HiPeach
+      avatar: https://npm.elemecdn.com/opicture@1.0.0/main/avatar.webp
+      url: https://blog.opeach.cn
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 妙不可言
+    - title: FloatSheeps Blog
+      avatar: https://registry.npmmirror.com/@floatsheep/fsl-fim/1.0.23/files/avatar%202024.black.webp
+      url: https://blog.hesiy.cn
+      screenshot: # 截图
+      keywords: # 关键词
+      description: On the other side of obstacles
+    - title: 浅草物语
+      avatar: https://pic.imgdb.cn/item/65192187c458853aef9f07c7.png
+      url: https://www.chillg.top
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 繁杂互联网中的避风港,清静的一亩三分地。
+      
