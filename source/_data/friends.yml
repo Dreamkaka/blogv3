@@ -61,4 +61,14 @@
       screenshot: # 截图
       keywords: # 关键词
       description: 繁杂互联网中的避风港,清静的一亩三分地。
+    - name: 一粒微尘
+      link: https://blog.667408.xyz
+      avatar: https://tc.freeblog.us.kg/2024/09/28/460793.webp
+      descr: 迎着光看，每一粒微尘都似点点繁星
+      siteshot: 
+    - name: 青稚の空间
+      link: https://blog.linux-qitong.top/
+      avatar: https://blog.linux-qitong.top/img/avatar.jpg
+      descr: 越努力，越幸运.
+      siteshot: https://blog.linux-qitong.top/img/qingzhi.webp   
       
